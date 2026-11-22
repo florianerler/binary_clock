@@ -150,6 +150,7 @@ binary_clock/
 ├── main.py          the program
 ├── secrets.py       WLAN credentials (not in git)
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── docs/
     └── images/      photos for this README
@@ -162,4 +163,4 @@ German.
 
 ## License
 
-Not chosen yet.
+MIT License, see [LICENSE](LICENSE). Copyright (c) 2026 Florian Erler.
