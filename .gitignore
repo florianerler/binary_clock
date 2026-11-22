@@ -1,0 +1,25 @@
+# Credentials (WLAN name and password), never commit these
+secrets.py
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm / JetBrains settings
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# MicroPython firmware images (large, downloadable from micropython.org)
+*.bin
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Original photos with metadata (use the processed copies in docs/images/)
+docs/*.jpg
+docs/*.jpeg
+docs/*.png
